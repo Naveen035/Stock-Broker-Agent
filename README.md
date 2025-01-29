@@ -30,7 +30,7 @@ The **Stock Broker Agent** is a Streamlit-based web application that fetches and
 
 ## 📊 Example Analysis Output
 
-- **Stock Symbol**: NVDA  
+- **Stock Symbol**: NVDA (Nvidia)
 - **Current Price**: $128.99 
 - **RSI**: 45.6  
 - **Recommendation**: **BUY** (Confidence: 80%)  
