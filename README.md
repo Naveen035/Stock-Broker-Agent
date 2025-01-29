@@ -45,4 +45,4 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-For questions or suggestions, reach out to me at [your-email@example.com](mailto:massnaveen1002@gmail.com).
+For questions or suggestions, reach out to me at [massnaveen1002@gmail.com](mailto:massnaveen1002@gmail.com).
